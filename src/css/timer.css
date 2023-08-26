@@ -1,0 +1,20 @@
+.timer {
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+.label {
+  background-color: #ffd800;
+}
+.value {
+  background-color: #0056b9;
+}
+input,
+button {
+  font-size: 1.5em;
+  background: linear-gradient(21deg, #ffd800, #0056b9);
+  padding: 5px;
+  display: inline-block;
+  border-radius: 9999em;
+  text-align: center;
+}
